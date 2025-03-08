@@ -30,3 +30,5 @@ backend/.env
 backend/alembic.ini
 backend/migrations/  
 # Ignore this if you don’t want to share migrations
+backend/config.py
+
